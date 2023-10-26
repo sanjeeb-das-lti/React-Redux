@@ -21,13 +21,15 @@ Installation--
 > npm install @reduxjs/toolkit
 > npm install react-redux
 
-	1. Create app> store.js
-	2. Create a store using configureStore and export it.
-	3. Create slices> login> loginSlice.js
-	4. Crate a slice using createSlice and export it
-	5. Add name, initialState and reducer
-	6. Add the reducer in the store
-	7. useDispatch
-	8. useSelector
-  9. Wrap main.jsx with Provider of Store
+1. Create app> store.js
+2. Create a store using configureStore and export it.
+3. Create slices> login> loginSlice.js
+4. Crate a slice using createSlice and export it
+5. Add name, initialState and reducer
+6. Add the reducer in the store
+7. useDispatch
+8. useSelector
+9. Wrap main.jsx with Provider of Store
+ 
+
 
